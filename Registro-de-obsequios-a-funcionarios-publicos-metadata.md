@@ -9,6 +9,8 @@ Por su parte, todos los obsequios –admitidos por la ley 25.188- deben ser regi
 
 En este conjunto de datos se detallan los obsequios recibidos por funcionarios públicos bajo las condiciones señaladas.
 
+http://datos.jus.gob.ar/dataset/registro-de-obsequios-a-funcionarios-publicos
+
 Características
 ---------------
 
@@ -33,7 +35,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-obsequios-funcionarios-publicos.csv
 
--   **Descripción del contenido:** conjunto de datos que detalla los obsequios a funcionarios públicos registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia y Derechos Humanos
+-   **Descripción del contenido:** se detallan los obsequios a funcionarios públicos registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia y Derechos Humanos
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
