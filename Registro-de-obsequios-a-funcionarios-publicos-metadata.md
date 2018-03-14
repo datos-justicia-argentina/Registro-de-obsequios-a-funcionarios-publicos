@@ -39,7 +39,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** obsequios a funcionarios públicos desde el año 2016 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -106,3 +106,5 @@ Recursos disponibles
 ### Notas
 
 [Ley de Ética en el Ejercicio de la Función Pública N° 25.188](http://www.saij.gob.ar/1179-nacional-reglamentacion-articulo-18-regimen-obsequios-funcionarios-publicos-ley-etica-ejercicio-funcion-publica-25188-dn20160001179-2016-11-18/123456789-0abc-971-1000-6102soterced?q=%28numero-norma%3A1179%20%29%20AND%20titulo%3A%20R%E9gimen%20AND%20titulo%3A%20Obsequios%20AND%20titulo%3A%20Funcionarios%20AND%20titulo%3A%20P%FAblicos&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n/Decreto%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Nacional&t=2#CT001).
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 106 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-106-APN-MJ.pdf), del 2 de Febrero de 2017.
