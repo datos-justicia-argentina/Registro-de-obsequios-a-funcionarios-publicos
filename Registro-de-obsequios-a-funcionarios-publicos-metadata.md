@@ -31,11 +31,11 @@ Características
 Recursos disponibles
 --------------------
 
-### Registro de obsequios a funcionarios públicos
+### Registro de obsequios a funcionarios públicos - AAAA-MM-DD
 
--   **Nombre del archivo:** registro-obsequios-funcionarios-publicos.csv
+-   **Nombre del archivo:** registro-obsequios-funcionarios-publicos-AAAA-MM-DD.csv
 
--   **Descripción del contenido:** se detallan los obsequios a funcionarios públicos registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia y Derechos Humanos
+-   **Descripción del contenido:** se detallan los obsequios a funcionarios públicos registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia y Derechos Humanos a la fecha AAAA-MM-DD
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
