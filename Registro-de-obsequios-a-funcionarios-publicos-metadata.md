@@ -103,6 +103,14 @@ Recursos disponibles
 
 -   **obsequiador_cargo_representante (string):** cargo de la persona que representa a quien realizó el obsequio
 
+### Registro de obsequios a funcionarios públicos - AAAAMMDD
+
+-   **Nombre del archivo:** registro-obsequios-funcionarios-publicos-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+-   **Formato:** ZIP
+
 ### Notas
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
