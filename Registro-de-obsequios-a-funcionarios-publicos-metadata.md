@@ -103,7 +103,7 @@ Recursos disponibles
 
 -   **obsequiador_cargo_representante (string):** cargo de la persona que representa a quien realizó el obsequio
 
-### Registro de obsequios a funcionarios públicos - AAAAMMDD
+### Registro de obsequios a funcionarios públicos - AAAA
 
 -   **Nombre del archivo:** registro-obsequios-funcionarios-publicos-AAAA.zip
 
