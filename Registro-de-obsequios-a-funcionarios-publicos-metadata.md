@@ -63,6 +63,8 @@ Recursos disponibles
 
 -   **obsequio_descripcion (string):** descripción del obsequio
 
+-   **obsequio_fecha_registro (date):** fecha en la que se registró el obsequio
+
 -   **obsequio_fecha_recepcion (date):** fecha en la que se recibió el obsequio
 
 -   **obsequio_valor_estimado (string):** valor estimado del obsequio
