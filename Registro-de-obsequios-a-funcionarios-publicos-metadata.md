@@ -18,11 +18,11 @@ Características
 
 -   **Tags o Etiquetas:** anticorrupción, obsequios, funcionarios, transparencia
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
+-   **Organización:** Ministerio de Justicia. Oficina Anticorrupción
 
 -   **Autor:** Oficina Anticorrupción
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
+-   **Responsable:** Ministerio de Justicia. Oficina Anticorrupción
 
 -   **Grupo:** Transparencia y anticorrupción
 
@@ -35,7 +35,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-obsequios-funcionarios-publicos-AAAAMMDD.csv
 
--   **Descripción del contenido:** se detallan los obsequios a funcionarios públicos registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia y Derechos Humanos actualizado a la fecha AAAAMMDD
+-   **Descripción del contenido:** se detallan los obsequios a funcionarios públicos registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia actualizado a la fecha AAAAMMDD
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -119,4 +119,4 @@ Recursos disponibles
 
 [Ley de Ética en el Ejercicio de la Función Pública N° 25.188](http://www.saij.gob.ar/1179-nacional-reglamentacion-articulo-18-regimen-obsequios-funcionarios-publicos-ley-etica-ejercicio-funcion-publica-25188-dn20160001179-2016-11-18/123456789-0abc-971-1000-6102soterced?q=%28numero-norma%3A1179%20%29%20AND%20titulo%3A%20R%E9gimen%20AND%20titulo%3A%20Obsequios%20AND%20titulo%3A%20Funcionarios%20AND%20titulo%3A%20P%FAblicos&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n/Decreto%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Nacional&t=2#CT001).
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 106 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-106-APN-MJ.pdf), del 2 de Febrero de 2017.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 106 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2017-106-APN-MJ.pdf), del 2 de Febrero de 2017.
